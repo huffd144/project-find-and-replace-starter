@@ -34,10 +34,7 @@ replaceAllButton.addEventListener("click", function () {
         console.log("bye");
       }
     }
-  } else {
-  currentCombination[j].innerHTML.replace = replaceData 
-    return replaceData
-}
+  }
 });
 // console.log(replaceAllButton);
 // YOUR CODE GOES HERE
